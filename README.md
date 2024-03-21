@@ -1,6 +1,6 @@
 "# Collision-Analytics-Hub" 
 
-# PBI-Road-Acccident-Analysis
+# PBI-Collision-Analytics-Hub
 
 ![Dashboard Image](https://github.com/IsaacMwendwa/PBI-Road-Accident-Analysis/blob/main/Final%20Dashboard%20Image.PNG "Final Dashboard Image")
 
