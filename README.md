@@ -2,7 +2,7 @@
 
 # PBI-Collision-Analytics-Hub
 
-![Dashboard Image](https://github.com/IsaacMwendwa/PBI-Road-Accident-Analysis/blob/main/Final%20Dashboard%20Image.PNG "Final Dashboard Image")
+![Dashboard Image](https://github.com/snehaburman/Collision-Analytics-Hub/blob/main/Dashboard_Images/Collision_Analytics_Dashboard.png)
 
 ## Table of Contents
 * [Introduction](#Introduction)
