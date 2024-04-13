@@ -61,7 +61,7 @@ If you find a bug (the dashboard gave undesired results), kindly open an issue [
 If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/IsaacMwendwa/Power-BI-Road-Accidents-Analysis-Dashboard/issues/new). Please include sample queries and their corresponding results.
 
 ## Authors
-* **[Isaac Mwendwa](https://github.com/IsaacMwendwa)**
+* **Sneha Burman**
     
-[![github follow](https://img.shields.io/github/followers/IsaacMwendwa?label=Follow_on_GitHub)](https://github.com/IsaacMwendwa)
+
 
